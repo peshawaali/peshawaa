@@ -1,23 +1,22 @@
 {
-  "Version": "105.1.2",
-  "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nSERVERS SUPPORT WHATSAP CALLS AND GAMING\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
-  "ReleaseNotes1": "THANK YOU FOR SUPPORTING EW TUNNEL❤️",
+  "Version": "105.1.3",
+  "ReleaseNotes1": "THANK YOU FOR SUPPORT❤️",
   "Servers": [
     {
-      "Name": "America 1",
-      "FLAG": "us",
-      "ServerIP": "51.79.68.77",
-      "ServerUser": "royudp",
-      "ServerPass": "royudp",
+      "Name": "Germany 1",
+      "FLAG": "de",
+      "ServerIP": "91.107.174.252",
+      "ServerUser": "scbuild",
+      "ServerPass": "jexrx2lp:h3dxpegq",
       "sInfo": "NO DATA LOAD",
       "Slowchave": "",
       "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
+      "servermessage": "CONNECTED",
       "tunnelT": "UDP"
     },
     {
-      "Name": "America ARIZONA",
-      "FLAG": "us",
+      "Name": "GERMANY 2",
+      "FLAG": "de",
       "ServerIP": "154.38.165.209",
       "ServerUser": "apphost1",
       "ServerPass": "apphost1",
