@@ -1,7 +1,7 @@
 {
-  "Version": "105.1.4",
-  "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nSERVERS SUPPORT WHATSAP CALLS AND GAMING\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
-  "ReleaseNotes1": "THANK YOU FOR SUPPORTING EW TUNNEL❤️",
+  "Version": "105.1.5",
+  "ReleaseNotes": "New UDP Servers",
+  "ReleaseNotes1": "THANK YOU FOR SUPPORT❤️",
   "Servers": [
     {
       "Name": "germany 1",
@@ -16,11 +16,23 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "America ARIZONA",
+      "Name": "ITALY",
+      "FLAG": "it",
+      "ServerIP": "172.232.192.159",
+      "ServerUser": "hwudp",
+      "ServerPass": "hw",
+      "sInfo": "NO DATA LOAD",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": "***--- PUBLIC SERVER ---***",
+      "tunnelT": "UDP"
+    },
+    {
+      "Name": "America",
       "FLAG": "us",
-      "ServerIP": "89.117.16.186",
-      "ServerUser": "agnudp",
-      "ServerPass": "agnudp",
+      "ServerIP": "172.233.148.66",
+      "ServerUser": "hwudp",
+      "ServerPass": "hw",
       "sInfo": "NO DATA LOAD",
       "Slowchave": "",
       "Nameserver": "",
@@ -28,11 +40,11 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "America Alaska",
-      "FLAG": "ph",
-      "ServerIP": "89.117.16.186",
-      "ServerUser": "agnudp",
-      "ServerPass": "agnudp",
+      "Name": "Germany",
+      "FLAG": "de",
+      "ServerIP": "139.144.183.145",
+      "ServerUser": "hwudp",
+      "ServerPass": "hw",
       "sInfo": "NO DATA LOAD",
       "Slowchave": "",
       "Nameserver": "",
@@ -40,23 +52,11 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "London VOIP",
-      "FLAG": "uk",
-      "ServerIP": "89.117.16.186",
-      "ServerUser": "agnudp",
-      "ServerPass": "agnudp",
-      "sInfo": "NO DATA LOAD",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
-      "tunnelT": "UDP"
-    },
-    {
-      "Name": "Singapore",
-      "FLAG": "sg",
-      "ServerIP": "89.117.16.186",
-      "ServerUser": "agnudp",
-      "ServerPass": "agnudp",
+      "Name": "Sweden",
+      "FLAG": "se",
+      "ServerIP": "172.232.146.117",
+      "ServerUser": "hwudp",
+      "ServerPass": "hw",
       "sInfo": "NO DATA LOAD",
       "Slowchave": "",
       "Nameserver": "",
