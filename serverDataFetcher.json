@@ -1,5 +1,5 @@
 {
-  "Version": "105.1.5",
+  "Version": "105.1.6",
   "ReleaseNotes": "New UDP Servers",
   "ReleaseNotes1": "THANK YOU FOR SUPPORT❤️",
   "Servers": [
@@ -28,11 +28,11 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "America",
-      "FLAG": "us",
-      "ServerIP": "172.233.148.66",
-      "ServerUser": "hwudp",
-      "ServerPass": "hw",
+      "Name": "FL",
+      "FLAG": "fl",
+      "ServerIP": "65.21.111.133",
+      "ServerUser": "2qZ7670:7425805",
+      "ServerPass": "panel",
       "sInfo": "NO DATA LOAD",
       "Slowchave": "",
       "Nameserver": "",
