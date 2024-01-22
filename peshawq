@@ -1,0 +1,29 @@
+{
+      "Version":"1.0",
+      "ReleaseNotes":["hello"],
+      "Servers":[{
+             "name": "Server 1",
+             "flag": "SG",
+             "server": "65.109.170.203",
+             "obfs": "scbuild",
+             "auth_str": "scbuilddev",
+             "up_mbps": 100,
+             "down_mbps": 100
+       },{
+             "name": "Server 2",
+             "flag": "SG",
+             "server": "udp.alfaisalvpn.cloud",
+             "obfs": "bakla",
+             "auth_str": "bakla",
+             "up_mbps": 100,
+             "down_mbps": 100
+       },{
+             "name": "Server 3",
+             "flag": "SG",
+             "server": "185.227.134.67",
+             "obfs": "zi",
+             "auth_str": "zi",
+             "up_mbps": 100,
+             "down_mbps": 100
+       }]
+}
